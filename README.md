@@ -1,8 +1,6 @@
 # Scope-Ventures
 
 Ruoyang Qiu
-Austin Sprague
-Stephen Anderson
 
 Project mission statement
 Our database’s primary purpose is to allow our clients to store current and historical data on investments, customers, 
